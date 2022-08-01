@@ -3,7 +3,6 @@
 I've got like 5 different names, so if this is the one you know me by, this is the only one you will know me by.
 
 - 🎒 HS Student
-- Working to break down the STEM Superiority Complex
 - he/him
 - Currently Learning ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/16px-Python-logo-notext.svg.png)
 - I like Discord.JS, perhaps a bit too much
