@@ -2,7 +2,7 @@
 
 I don't know what to put here! I don't know if I ever will
 
-- 🎒 University of Pittsburgh
+- 🎒 University of Pittsburgh (TJB229)
 - he/him
 
 
